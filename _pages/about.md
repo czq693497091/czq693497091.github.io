@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in Computer Science and Technology of Zhejiang University, supervised by Prof. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). My research interests lie in the fields of elasticity and reliability Agentic Infrastructures, especially on the RL Infra, GPU cluster and sandbox management.
+I am a final-year Ph.D. student in Computer Science and Technology of Zhejiang University, supervised by Prof. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). My research interests lie in the fields of elastic and reliable Agentic Infrastructures, especially on the RL Infra, GPU cluster and sandbox management.
 
 
 Publications
 ======
 <sup>*</sup> denotes co-first authorship.
-- **[OSDI'26]** RobustRL: Role-based Fault Tolerance System for RL Post-Training. **Zhenqian Chen**, Baoquan Zhong, Xiang Li, Qing Dai, Xinkui Zhao, Miao Ye, Ren Cheng, Lufei Zhang, Jianwei Yin. 20th USENIX Symposium on Operating Systems Design and Implementation, July, 2026. [[paper]](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) [[arxiv]](https://arxiv.org/abs/2512.22492)
+- **[OSDI'26]** RobustRL: Role-based Fault Tolerance System for RL Post-Training. **Zhenqian Chen**, Baoquan Zhong, Xiang Li, Qing Dai, Xinkui Zhao, Miao Ye, Ren Cheng, Lufei Zhang, Jianwei Yin. 20th USENIX Symposium on Operating Systems Design and Implementation, July, 2026. (**CCF-A**). [[paper]](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) [[arxiv]](https://arxiv.org/abs/2512.22492)
 
 - **[TC'25]** UKFaaS: Lightweight, High-Performance and Secure FaaS Communication With Unikernel. **Zhenqian Chen**<sup>*</sup>, Yuchun Zhan<sup>*</sup>, Peng Hu, Xinkui Zhao, Muyu Yang, Siwei Tan, Lufei Zhang, Liqiang Lu, Jianwei Yin, Zuoning Chen. IEEE Transactions on Computers, 2025. (**CCF-A**). [[paper]](https://ieeexplore.ieee.org/document/11071943/) 
 
