@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in Computer Science and Technology of Zhejiang University, supervised by Prof. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). My research interests lie in the fields of elastic and reliable Agentic Infrastructures, especially on the RL Infra, GPU cluster and sandbox management.
+I am a final-year Ph.D. student in the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Jianwei Yin](https://person.zju.edu.cn/en/0001038). My research interests lie in the fields of elastic and reliable Agentic Infrastructures, especially on the RL Infra, GPU cluster and sandbox management.
 
 
 Publications
